@@ -1,0 +1,9 @@
+{
+  "name": "OM AI • Neural Voice Assistant",
+  "description": "A premium AI assistant with a cute bestie personality, featuring neural voice synthesis, Android automation, and smart web tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
